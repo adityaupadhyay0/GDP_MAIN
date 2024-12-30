@@ -1,0 +1,42 @@
+export const teams = [
+  {
+    id: 'dsa',
+    name: 'DSA Team',
+    description: 'Mastering algorithms and data structures through collaborative learning and problem-solving.',
+    icon: 'Code',
+    color: 'text-blue-500',
+    bgColor: 'bg-blue-500/10',
+  },
+  {
+    id: 'webdev',
+    name: 'Web Development',
+    description: 'Building modern web applications with cutting-edge technologies and best practices.',
+    icon: 'Globe',
+    color: 'text-purple-500',
+    bgColor: 'bg-purple-500/10',
+  },
+  {
+    id: 'social',
+    name: 'Social Media',
+    description: 'Creating engaging content and managing digital presence across platforms.',
+    icon: 'Share2',
+    color: 'text-pink-500',
+    bgColor: 'bg-pink-500/10',
+  },
+  {
+    id: 'design',
+    name: 'Graphic Design',
+    description: 'Crafting visually stunning designs and creative digital artwork.',
+    icon: 'Palette',
+    color: 'text-green-500',
+    bgColor: 'bg-green-500/10',
+  },
+  {
+    id: 'band',
+    name: 'GDP Band',
+    description: 'Where tech meets music - our creative outlet for musical expression.',
+    icon: 'Music',
+    color: 'text-yellow-500',
+    bgColor: 'bg-yellow-500/10',
+  },
+];
